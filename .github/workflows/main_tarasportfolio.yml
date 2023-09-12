@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Tarasportfolio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A582B414A3243679F30BADEB7F93258 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B66EDD66E9C04A7090D274C357D90283 }}
           package: .
